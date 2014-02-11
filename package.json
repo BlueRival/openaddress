@@ -1,0 +1,25 @@
+{
+	"name":            "openaddress",
+	"description":     "A NodeJS client for the OpenAddress geocoding service https://code.google.com/p/openaddresses/wiki/RESTService.",
+	"version":         "0.0.2",
+	"author":          "Anthony Hildoer <anthony@bluerival.com>",
+	"repository":      {
+		"type": "git",
+		"url":  "git@github.com:BlueRival/openaddress.git"
+	},
+	"dependencies":    {},
+	"devDependencies": {
+		"mocha": "~1"
+	},
+	"keywords":        [
+		"open",
+		"address",
+		"openaddress",
+		"geocode",
+		"geocoding"
+	],
+	"engines":         {
+		"node": ">=0.10.0"
+	},
+	"license":         "MIT"
+}
